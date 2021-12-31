@@ -1,4 +1,5 @@
 { 
+  
   "news":[{
         "image": "../assets/new5.png",
         "name":"Licencié par Google, il accuse l'entreprise américaine d’œuvrer à la défaite de Trump en 2020",
@@ -45,6 +46,7 @@
 
       }
       ]
+}
 }
 
 
