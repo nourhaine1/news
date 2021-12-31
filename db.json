@@ -1,12 +1,13 @@
 { 
   
-  "news":[{
+  "news" : [
+    {
         "image": "../assets/new5.png",
         "name":"Licencié par Google, il accuse l'entreprise américaine d’œuvrer à la défaite de Trump en 2020",
 
-        "text":"Présenté comme un ancien salarié du géant américain Google, Kevin Cernekee évoque ses déboires avec lentreprise et affirme que la multinationale souhaiterait faire échouer Donald Trump lors de la prochaine élection présidentielle",
+        "text": "Présenté comme un ancien salarié du géant américain Google, Kevin Cernekee évoque ses déboires avec lentreprise et affirme que la multinationale souhaiterait faire échouer Donald Trump lors de la prochaine élection présidentielle",
 
-        "url":"https://francais.rt.com/international/64872-licencie-par-google-il-accuse-entreprise-americaine-oeuvrer-defaite-trump-2020",
+        "url" : "https://francais.rt.com/international/64872-licencie-par-google-il-accuse-entreprise-americaine-oeuvrer-defaite-trump-2020",
 
       },
         {
@@ -38,15 +39,15 @@
       },
        {
         "image": "../assets/new7.png",
-        "name":"L'ancienne journaliste de Fox News Heather Nauert nommée ambassadrice des Etats-Unis à l'ONU ",
+        "name": "L'ancienne journaliste de Fox News Heather Nauert nommée ambassadrice des Etats-Unis à l'ONU ",
 
-        "text":"Son manque d'expérience politique n'a pas joué en sa défaveur : Donald Trump a annoncé avoir choisi l'ancienne journaliste de Fox News Heather Nauert pour occuper le poste d'ambassadrice des Etats-Unis auprès de l'ONU, laissé vacant par Nikki Haley.",
+        "text": "Son manque d'expérience politique n'a pas joué en sa défaveur : Donald Trump a annoncé avoir choisi l'ancienne journaliste de Fox News Heather Nauert pour occuper le poste d'ambassadrice des Etats-Unis auprès de l'ONU, laissé vacant par Nikki Haley.",
 
-        "url":"https://francais.rt.com/international/56379-ancienne-journaliste-fox-news-heather-nauert-ambassadrice-americaine-onu",
+        "url" :"https://francais.rt.com/international/56379-ancienne-journaliste-fox-news-heather-nauert-ambassadrice-americaine-onu",
 
-      }
+      },
       ]
 }
-}
+
 
 
